@@ -434,7 +434,5 @@ namespace SCPSLAudioApi.AudioCore
                    !string.IsNullOrEmpty(hub.authManager.UserId) &&
                    !hub.authManager.UserId.Contains("Dummy");
         }
-
-
     }
 }
